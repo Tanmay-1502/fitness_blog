@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Benefits of exercising daily",
+      "body": "It can increase your energy levels. Also it can reduce your risk of chronic disease.",
+      "author": "John",
+      "id": 1
+    },
+    {
+      "title": "Importance of healthy diet",
+      "body": "A healthy diet is essential for good health and nutrition.  It protects you against many chronic noncommunicable diseases, such as heart attack, diabetes and cancer",
+      "author": "Jack",
+      "id": 3
+    }
+  ]
+}
